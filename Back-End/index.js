@@ -27,3 +27,6 @@ app.listen(PORT, () => {
   console.log(`app started at ${PORT}`);
   connect();
 });
+
+// PORT = 5000
+// MONGO = mongodb+srv://AMAANKHATRI:amaankhatriqureshishaikh@amaankhatri.bfvdktd.mongodb.net/
